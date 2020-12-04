@@ -1,0 +1,4 @@
+#Wed Dec 02 00:08:10 PKT 2020
+base.0=E\:\\android project\\QuizApp-Android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
